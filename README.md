@@ -14,4 +14,4 @@ You would use a unit test to test the message function so you test the inputs of
 4) Would you use a unit test to test the “max message length” feature of a messaging application? Why or why not? For this question, assume the “max message length” feature prevents the user from typing more than 80 characters.
 I would probably do a unit test for this. This error would be thrown if the input exceeds a limit so while unit testing I would create a for loop with inputs over the limits and see if they still get sent, which they should not be.
 
-Worked on this Lab by myself.
+Worked on this Lab by with Sailor Eichhorn
